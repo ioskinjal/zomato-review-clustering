@@ -15,7 +15,8 @@ This beginner machine learning project clusters Zomato customer reviews using un
 - Python, Pandas, Scikit-learn, NLTK, Matplotlib, Seaborn
 
 ## 🎥 Video
-_Link to video demo will go here_
+Watch the full walkthrough video here:  
+👉 [Zomato Review Clustering – Full Video on Loom](https://www.loom.com/share/f673d1a7fa144a2d98334eacbc6d73cc?sid=b1dfc611-6711-4179-809c-06e80ac568fc)
 
 ## 👩‍💻 Author
 Kinjal Gadhia
